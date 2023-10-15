@@ -1,0 +1,13 @@
+from flask import flask
+
+app = flask (name)
+
+@app. route ('/') 
+
+def hello_world ():
+
+  returj 'eazimedia'
+
+if name == 'msin':
+
+app.run
